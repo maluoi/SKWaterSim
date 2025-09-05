@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SKWaterSim", "SKWaterSim.csproj", "{A63E648D-0BB1-4916-863E-A53CA0DE326F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SKWaterSim.Android", "Projects\Android\SKWaterSim.Android.csproj", "{DFA98AFA-BD4B-4524-B69B-0F46C63201E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A63E648D-0BB1-4916-863E-A53CA0DE326F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A63E648D-0BB1-4916-863E-A53CA0DE326F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A63E648D-0BB1-4916-863E-A53CA0DE326F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A63E648D-0BB1-4916-863E-A53CA0DE326F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFA98AFA-BD4B-4524-B69B-0F46C63201E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA98AFA-BD4B-4524-B69B-0F46C63201E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFA98AFA-BD4B-4524-B69B-0F46C63201E8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DFA98AFA-BD4B-4524-B69B-0F46C63201E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFA98AFA-BD4B-4524-B69B-0F46C63201E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFA98AFA-BD4B-4524-B69B-0F46C63201E8}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {290282CB-3FF7-426F-A0BF-7B5B4890C5B2}
+	EndGlobalSection
+EndGlobal
